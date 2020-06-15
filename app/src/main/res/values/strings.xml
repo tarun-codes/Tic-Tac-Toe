@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="app_title">Tic-Tac-Toe</string>
+    <string name="img0">img0</string>
+    <string name="imgX">imgX</string>
+    <string name="statusX">X\'s turn - Tap to play</string>
+    <string name="status0">0\'s turn - Tap to play</string>
+    <string name="btnText">Play Again</string>
+
+</resources>
